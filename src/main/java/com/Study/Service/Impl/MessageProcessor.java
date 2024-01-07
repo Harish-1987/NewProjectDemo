@@ -5,7 +5,7 @@ import com.Study.Service.MessageService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
-// Modified by developer branch
+// Modified by developer branch.
 @Service
 public class MessageProcessor {
 
